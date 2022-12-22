@@ -1,0 +1,37 @@
+
+
+# Your Tasks
+
+1. Run PySmile-GeNie.py using Visual Studio Code if using Windows
+2. Run Python_Smile(MacOS).ipynb if you are using MacOS
+3. Read Task-for-student.txt
+
+
+**Question 1**
+
+Set the nodes with the following evidence:
+
+- Call_Time = noon
+- Gender = female
+- Publisher = AirAsia
+- Income = high
+- Day_of_Week = Friday
+- Browse_Time = Night
+- phone_brand = Apple
+
+What is the Occupation?
+
+**Question 2**
+
+Create a new Bayesian Network with the class variable Income. Set the following evidence to the relevant nodes:
+
+- Call_Time = morning
+- Gender = male
+- Publisher = lowyat
+- Income = low
+- Day_of_Week = Monday
+- Browse_Time = morning
+- phone_brand = Samsung
+- visit_URL = eBanking
+
+What is the Income level?
